@@ -10,9 +10,10 @@ npm run dev
 yarn dev
 ```
 
-==========================
+
 Components
 --------------------------
+
 nextjs with typescript
 Prisma 
 Mysql
